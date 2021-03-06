@@ -1,0 +1,2 @@
+D:\Visual_Projects\StudentAPI\StudentAPI\obj\Debug\StudentAPI.csprojAssemblyReference.cache
+D:\Visual_Projects\StudentAPI\StudentAPI\obj\Debug\StudentAPI.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+D:\Visual_Projects\DataBaseConnectivity\EmployeeDataAcces\bin\Debug\EmployeeDataAcces.dll.config
+D:\Visual_Projects\DataBaseConnectivity\EmployeeDataAcces\bin\Debug\EmployeeDataAcces.dll
+D:\Visual_Projects\DataBaseConnectivity\EmployeeDataAcces\bin\Debug\EmployeeDataAcces.pdb
+D:\Visual_Projects\DataBaseConnectivity\EmployeeDataAcces\bin\Debug\EntityFramework.dll
+D:\Visual_Projects\DataBaseConnectivity\EmployeeDataAcces\bin\Debug\EntityFramework.SqlServer.dll
+D:\Visual_Projects\DataBaseConnectivity\EmployeeDataAcces\bin\Debug\Microsoft.Analytics.Interfaces.dll
+D:\Visual_Projects\DataBaseConnectivity\EmployeeDataAcces\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+D:\Visual_Projects\DataBaseConnectivity\EmployeeDataAcces\bin\Debug\Microsoft.Analytics.Types.dll
+D:\Visual_Projects\DataBaseConnectivity\EmployeeDataAcces\bin\Debug\EntityFramework.xml
+D:\Visual_Projects\DataBaseConnectivity\EmployeeDataAcces\bin\Debug\EntityFramework.SqlServer.xml
+D:\Visual_Projects\DataBaseConnectivity\EmployeeDataAcces\obj\Debug\EmployeeDataAcces.csprojAssemblyReference.cache
+D:\Visual_Projects\DataBaseConnectivity\EmployeeDataAcces\obj\Debug\EmployeeDataAcces.csproj.CoreCompileInputs.cache
+D:\Visual_Projects\DataBaseConnectivity\EmployeeDataAcces\obj\Debug\EmployeeDataAcces.csproj.CopyComplete
+D:\Visual_Projects\DataBaseConnectivity\EmployeeDataAcces\obj\Debug\EmployeeDataAcces.dll
+D:\Visual_Projects\DataBaseConnectivity\EmployeeDataAcces\obj\Debug\EmployeeDataAcces.pdb

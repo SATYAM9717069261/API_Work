@@ -1,0 +1,7 @@
+D:\Visual_Projects\ReadTextFile\ReadTextFile\obj\Debug\ReadTextFile.csprojAssemblyReference.cache
+D:\Visual_Projects\ReadTextFile\ReadTextFile\obj\Debug\ReadTextFile.csproj.CoreCompileInputs.cache
+D:\Visual_Projects\ReadTextFile\ReadTextFile\bin\Debug\ReadTextFile.exe.config
+D:\Visual_Projects\ReadTextFile\ReadTextFile\bin\Debug\ReadTextFile.exe
+D:\Visual_Projects\ReadTextFile\ReadTextFile\bin\Debug\ReadTextFile.pdb
+D:\Visual_Projects\ReadTextFile\ReadTextFile\obj\Debug\ReadTextFile.exe
+D:\Visual_Projects\ReadTextFile\ReadTextFile\obj\Debug\ReadTextFile.pdb
